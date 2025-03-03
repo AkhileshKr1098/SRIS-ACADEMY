@@ -15,7 +15,7 @@ export class SpleshComponent implements OnInit {
   ngOnInit(): void {
     setTimeout(() => {
       this._router.navigate(['/logintype'])
-    }, 2000)
+    }, 3000)
   }
 
 }
