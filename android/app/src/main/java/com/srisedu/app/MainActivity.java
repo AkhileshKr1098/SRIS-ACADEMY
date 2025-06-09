@@ -1,4 +1,4 @@
-package com.srisacademy;
+package com.srisedu.app;
 
 import com.getcapacitor.BridgeActivity;
 

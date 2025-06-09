@@ -87,9 +87,9 @@ import { SpleshComponent } from './splesh/splesh.component';
 import { LoginTypeComponent } from './login-type/login-type.component';
 
 const routes: Routes = [
-  { path: '', component: SpleshComponent },
-  { path: 'logintype', component: LoginTypeComponent },
-  { path: '', component: InstituteLoginComponent },
+  { path: '', component: SpleshComponent }, // for app
+  { path: 'logintype', component: LoginTypeComponent }, // for app
+  // { path: '', component: InstituteLoginComponent },
   {
     path: 'homepage', component: HomepageComponent,
     children: [

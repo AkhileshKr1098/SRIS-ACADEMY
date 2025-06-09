@@ -1,8 +1,8 @@
 import type { CapacitorConfig } from '@capacitor/cli';
 
 const config: CapacitorConfig = {
-  appId: 'com.srisacademy',
-  appName: 'SRIS ACADEMY',
+  appId: 'com.srisedu.app',
+  appName: 'SirsEDU',
   webDir: 'www'
 };
 
